@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useMemo, useCallback } from "react";
 import * as THREE from "three";
 
-/* ══════════════════════════════════════════════════════════════ DATA */
+/* =======══════════════════════════════════════════════════════════════ DATA */
 
 const SIZES = [
   { id:"petit", label:"Petit",  dim:"A6 · 10,5 × 14,8 cm", price:6,  sc:0.70 },
